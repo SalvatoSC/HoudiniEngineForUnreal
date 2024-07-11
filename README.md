@@ -1,6 +1,6 @@
 # Houdini Engine for Unreal - Version 2
 
-> The source code in this branch is intended to be used with Unreal Engine 5.0 and 5.1
+> The source code in this branch is intended to be used with Unreal Engine 5.0 and 5.1.
 
 Welcome to the repository for the Houdini Engine For Unreal Plugin.
 
